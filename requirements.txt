@@ -1,0 +1,2 @@
+regex
+pyfiglet==0.7
