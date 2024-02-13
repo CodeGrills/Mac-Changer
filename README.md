@@ -11,12 +11,9 @@ It's very easy to use.
 We only need to have Python installed in our system.
 
 <h1> Installation Video </h1>
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/embed/3c49AyDEpO8?si=XQ-jS2Pa0N3zy7Tl" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/embed/3c49AyDEpO8?si=XQ-jS2Pa0N3zy7Tl"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=3c49AyDEpO8)
+
+
 </object>
 First clone the repository in your system  by typing following command:
 
