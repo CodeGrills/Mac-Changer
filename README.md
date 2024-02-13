@@ -11,8 +11,13 @@ It's very easy to use.
 We only need to have Python installed in our system.
 
 <h1> Installation Video </h1>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3c49AyDEpO8?si=XQ-jS2Pa0N3zy7Tl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/embed/3c49AyDEpO8?si=XQ-jS2Pa0N3zy7Tl" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/embed/3c49AyDEpO8?si=XQ-jS2Pa0N3zy7Tl"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 First clone the repository in your system  by typing following command:
 
 git clone https://github.com/CodeGrills/Mac-Changer
