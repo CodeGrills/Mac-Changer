@@ -11,7 +11,7 @@ It's very easy to use.
 We only need to have Python installed in our system.
 
 <h1> Installation Video </h1>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=3c49AyDEpO8)
+**Video Link ** - https://www.youtube.com/watch?v=3c49AyDEpO8
 
 
 </object>
