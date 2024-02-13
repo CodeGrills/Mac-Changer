@@ -11,10 +11,10 @@ It's very easy to use.
 We only need to have Python installed in our system.
 
 <h1> Installation Video </h1>
-**Video Link ** - https://www.youtube.com/watch?v=3c49AyDEpO8
+<b>Video Link</b>  - https://www.youtube.com/watch?v=3c49AyDEpO8
 
+----------------------------------------------------------------------
 
-</object>
 First clone the repository in your system  by typing following command:
 
 git clone https://github.com/CodeGrills/Mac-Changer
